@@ -4,3 +4,4 @@ rvm:
  - jruby
  - rbx-2
 script: bundle exec rspec spec
+bundler_args: --without darwin

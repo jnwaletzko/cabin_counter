@@ -43,5 +43,8 @@ group :development, :test do
   gem 'spring-commands-rspec'
   gem 'rspec-rails'
   gem 'guard-rspec'
+end
+
+group :darwin do
   gem 'rb-fsevent' if `uname` =~ /Darwin/
 end
