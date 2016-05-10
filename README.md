@@ -1,4 +1,4 @@
-== README
+# Cabin Counter 
 [![Code Climate](https://codeclimate.com/github/jnwaletzko/cabin_counter/badges/gpa.svg)](https://codeclimate.com/github/jnwaletzko/cabin_counter)
 [![Test Coverage](https://codeclimate.com/github/jnwaletzko/cabin_counter/badges/coverage.svg)](https://codeclimate.com/github/jnwaletzko/cabin_counter/coverage)
 [![Issue Count](https://codeclimate.com/github/jnwaletzko/cabin_counter/badges/issue_count.svg)](https://codeclimate.com/github/jnwaletzko/cabin_counter)
